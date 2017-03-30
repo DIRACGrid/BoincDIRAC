@@ -1,6 +1,6 @@
 """ WMSSecureGW service -  a generic gateway service
 
-    Mostly used by BOINC
+    Mostly used by BOINC, now poart of the DIRAC Core
 """
 
 import json
